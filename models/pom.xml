@@ -27,6 +27,7 @@
     </build>
 
     <modules>
+        <module>face_detection_yunet</module>
         <module>object_tracking_vittrack</module>
         <module>text_detection_ppocr</module>
     </modules>
